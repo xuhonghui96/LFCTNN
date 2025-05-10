@@ -1,6 +1,28 @@
 # LFCTNN
-Download the data：https://drive.google.com/drive/folders/1tc5hcuuGnoUjzTgRfUa1fcvoA9yUsxXP?usp=drive_link
 
-Official code files for Cascade-Transform-based TSVD for Hyperspectral Image Super-Resolution.
+## Description
 
-Note: The operation of the code is based on the successful installation of tensor_toolbox. Once the article is accepted, we will provide the original .m file. If you have any questions, please contact xhh@zjut.edu.cn
+- Matlab code for the paper: *"Cascade-Transform-based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution"*, TGRS 2024.
+- Homepage: [https://xuhonghui96.github.io/](https://xuhonghui96.github.io/)
+- If you have any questions, please contact xhh@zjut.edu.cn
+
+## Get started
+- The code is run based on the successful decompression of tensor_toolbox-v3.2.
+- Download the data：https://drive.google.com/drive/folders/1tc5hcuuGnoUjzTgRfUa1fcvoA9yUsxXP?usp=drive_link
+- Directly run: `Demo_SR_PU.m` for an example for Pavia Universitydataset.
+
+## Citation
+
+If you find this code helpful, please kindly cite:
+
+```bibtex
+@ARTICLE{10770239,
+  author={Xu, Honghui and Fang, Chuangjie and Ge, Yilin and Gu, Yubin and Zheng, Jianwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Cascade-Transform-Based Tensor Nuclear Norm for Hyperspectral Image Super-Resolution}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-16},
+  doi={10.1109/TGRS.2024.3508456}}
+
