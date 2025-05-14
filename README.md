@@ -7,7 +7,7 @@
 - If you have any questions, please contact xhh@zjut.edu.cn
 
 ## Get started
-- The code is run based on the successful decompression of tensor_toolbox-v3.2.
+- The code requires tensor_toolbox-v3.2 to be successfully decompressed before execution.
 - Download the data：https://drive.google.com/drive/folders/1tc5hcuuGnoUjzTgRfUa1fcvoA9yUsxXP?usp=drive_link
 - Directly run: `Demo_SR_PU.m` for an example for Pavia Universitydataset.
 
